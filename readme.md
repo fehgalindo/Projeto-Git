@@ -1,1 +1,1 @@
-"Esse projeto ensina a usar o git".
+"Primeiro comit terminal local"
